@@ -3,6 +3,7 @@
 A Spring Boot application demonstrating the integration of Generative AI (using Ollama) with Retrieval Augmented Generation (RAG) for intelligent banking customer support.
 
 ## Application Inside 
+For more information about the project, visit [Medium article](https://medium.com/@rifatcakira/building-an-ai-powered-chat-application-with-spring-ai-ollama-and-rag-a-practical-guide-9e40c954d2f2).
 
 ![img.png](src/main/resources/img2.png)
 ## Core AI Features
